@@ -72,8 +72,6 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: '后端',
         link: '/server/',
         items: [
-          { text: 'Zookeeper', link: '/pages/8309a5b876fc95e3/' },
-          { text: 'JUC', link: '/pages/java-juc/' },
         ],
       },
       {

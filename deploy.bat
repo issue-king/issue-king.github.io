@@ -9,6 +9,6 @@ xcopy /s /e  source_code\docs\.vuepress\dist docs
 echo(===================== dir copy success =====================)
 
 git add .
-git commit -m %1
+git commit -m 'git auto commit'
 git push
 echo(===================== git push success =====================)
